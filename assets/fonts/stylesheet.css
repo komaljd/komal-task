@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'SF Compact Display';
+    src: url('SFCompactDisplay-Medium.eot');
+    src: url('SFCompactDisplay-Medium.eot?#iefix') format('embedded-opentype'),
+        url('SFCompactDisplay-Medium.woff2') format('woff2'),
+        url('SFCompactDisplay-Medium.woff') format('woff'),
+        url('SFCompactDisplay-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SF Compact Display';
+    src: url('SFCompactDisplay-Thin.eot');
+    src: url('SFCompactDisplay-Thin.eot?#iefix') format('embedded-opentype'),
+        url('SFCompactDisplay-Thin.woff2') format('woff2'),
+        url('SFCompactDisplay-Thin.woff') format('woff'),
+        url('SFCompactDisplay-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
